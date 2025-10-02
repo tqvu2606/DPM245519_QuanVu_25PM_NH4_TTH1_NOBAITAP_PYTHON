@@ -11,4 +11,3 @@ Ghi chú nhiều dòng: Dùng ba dấu nháy đơn ''' hoặc ba dấu nháy ké
 nhiều dòng
 '''
 print("Hello")
- c5
